@@ -8,14 +8,13 @@
 	- **minmax** -> define un rango de tamaño mayor o igual a *min* y menor o igual a *max*.
 
 - **¿Qué es un MediaQuery?**
-MediaQuery es una técnica CSS introducida en CSS3.
-Utiliza la regla **@media** para incluir un bloque de propiedades CSS solo si se cumple una determinada condición.
+    - MediaQuery es una técnica CSS introducida en CSS3. Utiliza la regla **@media** para incluir un bloque de propiedades CSS solo si se cumple una determinada condición.
 
 - **¿Qué hace *min-width*?**
-Define la anchura mínima de un elemento. Si el contenido es menor que la anchura mínima, se aplicará la anchura mínima. Si el contenido es mayor que la anchura mínima, la propiedad *min-width* no tendrá efecto.
+    - Define la anchura mínima de un elemento. Si el contenido es menor que la anchura mínima, se aplicará la anchura mínima. Si el contenido es mayor que la anchura mínima, la propiedad *min-width* no tendrá efecto.
 
 - **¿Qué función cumple *span* en la regla *grid-column* y *grid-row*?**
-Determina la cantidad de columnas o filas que debe abarcar un elemento.
+    - Determina la cantidad de columnas o filas que debe abarcar un elemento.
 - **¿Qué función cumplen las siguientes propiedades?**
 	- **background-size : cover** -> escala la imagen (conservando su proporción) al tamaño más pequeño posible para llenar el contenedor (es decir: tanto su altura como su anchura cubren completamente el contenedor), sin dejar ningún espacio vacío. Si las proporciones del fondo difieren de las del elemento, la imagen se recorta vertical u horizontalmente.
 	- **background-position : center** -> centra la imagen en el contenedor.
